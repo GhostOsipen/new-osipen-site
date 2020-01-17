@@ -1,0 +1,17 @@
+header,
+footer {
+  background-color: #f3faff;
+  border: 2px solid #7fc1ff;
+  text-align: center;
+
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;   
+    text-align: center; 
+}
+
+.cat {
+        text-align: center;
+}
